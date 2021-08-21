@@ -2,6 +2,8 @@
 
 An application that collects users input, displaying it on the screen
 
+![](HNG_User_Input.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
